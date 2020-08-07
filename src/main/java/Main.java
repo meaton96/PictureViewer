@@ -16,6 +16,7 @@ public class Main extends Application {
         Scene defaultScene = new Scene(new Pane());
         primaryStage.setScene(defaultScene);
         primaryStage.show();
+        //:)
 
     }
 }
